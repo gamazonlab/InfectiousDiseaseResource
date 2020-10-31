@@ -1,4 +1,4 @@
-# InfectiousDiseaseResource [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rvinas/GAIN-GTEx/blob/master/LICENSE)  
+# InfectiousDiseaseResource [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gamazonlab/InfectiousDiseaseResource/blob/master/LICENSE)  
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4165001.svg)](https://doi.org/10.5281/zenodo.4165001)  
 
